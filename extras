@@ -1,0 +1,53 @@
+<section class="features-main my-2">
+    <div class="container grid grid-3">
+        <div class="card flex">
+
+            <i class="fas fa-server fa-3x"></i>
+            <p>Besonders im Herbst/Winter sehr beliebt. Einfach bis zu einem Tag vorher online vorbestellen und fix
+                & fertig am
+                Grillmobil in der Nähe abholen!</p>
+        </div>
+        <div class="card flex">
+            <i class="fas fa-network-wired fa-3x"></i>
+            <p>
+                Sie alle möchten das zarte Hähnchenfleisch oder unsere knusprigen leckeren Grillenten. Wer
+                es besonders leicht mag, erhält einen leckeren Salat - übrigens hausgemacht aus eigener Herstellung!
+            </p>
+        </div>
+    </div>
+    </div>
+</section>
+
+
+Uns konnen Sie buchen
+0176 24126381
+
+
+background: linear-gradient(rgba(228, 185, 14, 0.701), 
+	rgba(228, 208, 51, 0.295)), url(/images/home.jpeg);
+	-webkit-background-size: cover;
+	background-size: ;
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 100%;
+
+
+
+<!-- hero -->
+    <section class="features-head bg-primary py-3">
+
+        <div class="container grid">
+            <div id="hero">
+                <div>
+                    <h1 class="xl">Prima Mobile Grillhähnchen</h1>
+                    <p class="lead">
+                        Frisch und knusprig gegrillt sind unsere Hähnchen ein Genuss. Diese Spezialität überzeugt durch
+                        ein
+                        intensives
+                        Geschmackserlebnis.
+                    </p>
+                </div>
+            </div>
+            <img src="images/h1.peg" alt="">
+        </div>
+        </section>

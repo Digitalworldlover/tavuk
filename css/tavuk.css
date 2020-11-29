@@ -1,0 +1,38 @@
+Navbar .navbar {
+	background-color: black;
+	color: #fff;
+	height: 70px;
+}
+
+.navbar ul {
+	display: flex;
+}
+
+.navbar a {
+	color: #fff;
+	padding: 10px;
+	margin: 0 5px;
+}
+
+.navbar a:hover {
+	border-bottom: 2px #fff solid;
+}
+
+.navbar .flex {
+	justify-content: space-between;
+}
+
+.selo {
+	font-size: 70px;
+	text-transform: uppercase;
+	margin: 0%;
+}
+
+.banner-img {
+	background-image: url(/images/home.jpeg);
+	background-image: linear-gradient(rgba(20, 20, 49, 0.158), rgba(255, 255, 0, 0.295)), url("/images/home.jpeg");
+}
+
+.image {
+	background-color: black;
+}
